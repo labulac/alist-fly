@@ -3,7 +3,7 @@
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = "alist-cms-v2"
+app = "alist-lingering-sea-1635"
 kill_signal = "SIGINT"
 kill_timeout = 10
 primary_region = "hkg"
